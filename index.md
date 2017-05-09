@@ -18,3 +18,8 @@ for worry in worries do:
 - List Item 5
 
 [Link to a document]({{ site.baseurl }}{% link _post/2017-05-09-firstpost.md %})
+
+{% for post in site.posts %}
+{{ post.title }}
+{% endor %}
+
