@@ -15,6 +15,7 @@ An attempt to create an abstraction and visualization of the entire GD process
 * [High Level Design](http://www.csc.kth.se/utbildning/kth/kurser/DH2640/grip08/HighConceptTemplate-Inl4.pdf)
 * [Top Down or Bottom up?](http://www.gamasutra.com/view/feature/2129/game_design_cognition_the_.php?print=1)
 * [MTDA+N Model](http://www.firstpersonscholar.com/a-working-theory-of-game-design/)
+* [DPE Framework](http://gel.msu.edu/winn/Winn_DPE_chapter_final.pdf)
 
 # How to contribute
 I have had some success with using gitlab projects as a base for planning and communication. I would like to follow the "Everything starts with an issue" approach. Everyone should feel free to comment on discussion issues. From these discussions we can create To-Dos and then the actual content would be added to the wiki/repo.
