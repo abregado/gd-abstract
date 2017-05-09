@@ -21,5 +21,5 @@ for worry in worries do:
 
 {% for post in site.posts %}
 {{ post.title }}
-{% endor %}
+{% endfor %}
 
