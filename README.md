@@ -11,4 +11,5 @@ An attempt to create an abstraction and visualization of the entire GD process
 * [Dotsenko Approach](http://www.gamasutra.com/blogs/AndrewDotsenko/20160304/267298/Game_Design_Framework_On_the_way_to_good_Game_Design.php)
 * [Low Level Design](https://docs.google.com/document/d/1-I08qX76DgSFyN1ByIGtPuqXh7bVKraHcNIA25tpAzE/edit)
 * [High Level Design](http://www.csc.kth.se/utbildning/kth/kurser/DH2640/grip08/HighConceptTemplate-Inl4.pdf)
+* [Top Down or Bottom up?](http://www.gamasutra.com/view/feature/2129/game_design_cognition_the_.php?print=1)
 
