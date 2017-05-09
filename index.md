@@ -1,4 +1,4 @@
-# Title Here 2
+# Title Here 3
 
 Everything is written in markdown to make it easy
 
@@ -16,5 +16,7 @@ for worry in worries do:
 - List Item 3
 - List Item 4
 - List Item 5
+
+[Link to a document]({{ site.baseurl }}{% link _post/2017-05-09-firstpost.md %})
 
 
