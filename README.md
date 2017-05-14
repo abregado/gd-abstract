@@ -8,6 +8,9 @@ An attempt to create an abstraction and visualization of the entire GD process
 * Create a visual tool for showing this process.
 * Eventually simplify this structure to be suitable for children.
 
+# Vis options
+* [GOjs](http://gojs.net/latest/samples/flowchart.html)
+
 # Existing Formal GD structures and techniques
 * [Mechanics, Dynamics, Abstract](http://www.cs.northwestern.edu/~rob/publications/MDA.pdf)
 * [Dotsenko Approach](http://www.gamasutra.com/blogs/AndrewDotsenko/20160304/267298/Game_Design_Framework_On_the_way_to_good_Game_Design.php)
