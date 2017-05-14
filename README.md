@@ -10,6 +10,9 @@ An attempt to create an abstraction and visualization of the entire GD process
 
 # Vis options
 * [GOjs](http://gojs.net/latest/samples/flowchart.html)
+* [poltly.js](https://plot.ly/javascript/#basic-charts)
+* [chart.js](http://www.chartjs.org/)
+
 
 # Existing Formal GD structures and techniques
 * [Mechanics, Dynamics, Abstract](http://www.cs.northwestern.edu/~rob/publications/MDA.pdf)
