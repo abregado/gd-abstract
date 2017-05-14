@@ -2,7 +2,7 @@
 An attempt to create an abstraction and visualization of the entire GD process
 
 # Goals
-* Visualise the entire GD process so use during discussion.
+* Visualise the entire GD process to use during discussion.
 * Generalise the structure enough that a majority of projects can be described in this way.
 * Test Github as a communication platform for creating non-code projects.
 * Create a visual tool for showing this process.
